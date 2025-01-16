@@ -1,0 +1,21 @@
+{
+    "name": "@euphoriyy/geforcenow-tizen",
+    "appName": "GeForce NOW for Tizen",
+    "version": "0.0.2",
+    "description": "GeForce NOW for Samsung Smart TV (Tizen)",
+    "packageType": "mods",
+    "websiteURL": "https://play.geforcenow.com",
+    "serviceFile": "service.js",
+    "keys": [
+        "MediaPlayPause",
+        "MediaPlay",
+        "MediaPause",
+        "MediaStop",
+        "MediaFastForward",
+        "MediaRewind",
+        "MediaTrackNext",
+        "MediaTrackPrevious"
+    ],
+    "repository": "https://github.com/euphoriyy/geforcenow-tizen",
+    "main": "service.js"
+}
